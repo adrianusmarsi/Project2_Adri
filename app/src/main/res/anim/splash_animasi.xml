@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<set xmlns:android="http://schemas.android.com/apk/res/android"
+    android:fillAfter="true"
+    android:fillEnabled="true">
+
+    <alpha
+        android:duration="2500"
+        android:fromAlpha="0"
+        android:toAlpha="1"/>
+    <!-- duration =2500 artinya 2,5 detik atau 2500 milidetik -->
+    <!-- alpha = 0 artinya transparan, 1 = Solid -->
+
+
+    <scale
+        android:duration="2500"
+        android:fromXScale="0"
+        android:fromYScale="0"
+        android:pivotX="50%"
+        android:pivotY="50%"
+        android:toXScale="1"
+        android:toYScale="1"/>
+    <!-- fromXScale = 0 artinya lebar adalah 0% dari gambar -->
+    <!-- fromYScale = 0 artinya tinggi adalah 0% dari gambar -->
+    <!-- toXScale = 1 artinya lebar adalah 100% dari gambar -->
+    <!-- toYScale = 1 artinya tinggi adalah 100% dari gambar -->
+    <!-- pivotX dan pivotY adalah pusat dari Zoom -->
+</set>

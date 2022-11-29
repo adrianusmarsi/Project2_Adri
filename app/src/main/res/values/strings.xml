@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">IKIP PGRI Pontianak</string>
+    <string name="eNim">Silahkan Masukan NIM Anda</string>
+    <string name="ePass">Silahkan Masukan Password Anda</string>
+    <string name="bLogin">Login</string>
+    <string name="copyright">
+        <b>IKIP PGRI Pontianak © 2022 \n P.TI IKIP PGRI Pontianak</b>
+    </string>
+
+    <!-- Bagian Profil Organisasi -->
+    <string name="tOrg">Nama Perguruan Tinggi</string>
+    <string name="Org">IKIP PGRI Pontianak</string>
+    <string name="tAlamat">Alamat \u0026 Telepon</string>
+    <string name="alamat">JL.Ampera No. 88 Pontianak \n Kalimantan Barat - Indonesia</string>
+    <string name="telp">0561-748219/0561-6589855 \n rektorat@ikippgriptk.ac.id</string>
+    <string name="tAkreditasi">Akreditas Perguruan Tinggi</string>
+    <string name="akreditasi">"B"</string>
+    <string name="tPimpinan">Pimpinan Perguruan Tinggi</string>
+    <string name="tRektor">Rektor</string>
+    <string name="rektor">Muhamad Firdaus, M.Pd</string>
+    <string name="tWarek1">Wakil Rektor I</string>
+    <string name="warek1">Dr.Aunurrahman, M.Pd</string>
+    <string name="tWarek2">Wakil Rektor II</string>
+    <string name="warek2">Suherdiyanto, M.Pd</string>
+</resources>
