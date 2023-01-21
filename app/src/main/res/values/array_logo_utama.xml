@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="array_logo">
+        <item>@drawable/profil</item>
+        <item>@drawable/visimisi</item>
+        <item>@drawable/prestasi</item>
+        <item>@drawable/alarm</item>
+        <item>@drawable/prodi</item>
+    </integer-array>
+</resources>

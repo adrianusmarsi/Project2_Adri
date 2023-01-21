@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_prestasi_isi">
+        <!-- Prestasi Akademik -->
+        <item>
+            1. Peringkat 1 Penelitian Bidang Humaniora LLDIKTI XI
+            2. Peringkat 2 Pengabdian Masyarakat Bidang Humaniora LLDIKTI XI
+            3. Peringkat 3 Pengajaran LLDIKTI XI
+        </item>
+
+        <!-- Prestasi Non Akademik -->
+        <item>
+            1. Peringkat 1 Pekan Olahraga Mahasiswa Tingkat Provinsi
+            2. Peringkat 2 Pekan Kreasi Mahasiswa Tingkat Provinsi
+            3. Peringkat 3 PKM Tingkat LLDIKTI XI
+        </item>
+    </string-array>
+</resources>

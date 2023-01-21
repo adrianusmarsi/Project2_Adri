@@ -3,9 +3,7 @@
     <string name="eNim">Silahkan Masukan NIM Anda</string>
     <string name="ePass">Silahkan Masukan Password Anda</string>
     <string name="bLogin">Login</string>
-    <string name="copyright">
-        <b>IKIP PGRI Pontianak © 2022 \n P.TI IKIP PGRI Pontianak</b>
-    </string>
+    <string name="copyright">IKIP PGRI Pontianak © 2022 P.TI IKIP PGRI Pontianak</string>
 
     <!-- Bagian Profil Organisasi -->
     <string name="tOrg">Nama Perguruan Tinggi</string>
@@ -22,4 +20,29 @@
     <string name="warek1">Dr.Aunurrahman, M.Pd</string>
     <string name="tWarek2">Wakil Rektor II</string>
     <string name="warek2">Suherdiyanto, M.Pd</string>
+
+    <string name="tFakProdi">Fakultas \u0026 Program Studi</string>
+    <string name="fakProd">
+        1. Fakultas Ilmu Pendidikan dan Pengetahuan Sosial \n
+            \t a. Pendidikan Pancasila dan Kewarganegaraan \n
+            \t b. Pendidikan Bimbingan dan Konseling \n
+            \t c. Pendidikan Sejarah \n
+            \t d. Pendidikan Geografi \n
+        2. Fakultas MIPA dan Teknologi \n
+            \t a. Pendidikan Matematika \n
+            \t b. Pendidikan Fisika \n
+            \t c. Pendidikan Teknologi Informasi \n
+            \t d. Pendidikan Biologi \n
+        3. Fakultas Pendidikan Bahasa dan Seni \n
+            \t a. Pendidikan Bahasa Indonesia \n
+            \t b. Pendidikan Bahasa Inggris \n
+        4. Fakultas Pendidikan Olahraga dan Kesehatan \n
+            \t a. Pendidikan Olahraga dan Kesehatan \n
+    </string>
+    <string name="tVisi">VISI</string>
+    <string name="tMisi">MISI</string>
+    <string name="tSasaran">SASARAN</string>
+
+    <string name="tJudul">Jenis Prestasi</string>
+    <string name="tIsi">Isi Prestasi</string>
 </resources>

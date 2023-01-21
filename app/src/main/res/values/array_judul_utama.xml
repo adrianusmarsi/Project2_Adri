@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="array_judul">
+        <item>Profil</item>
+        <item>Visi dan Misi</item>
+        <item>Prestasi</item>
+        <item>Agenda</item>
+        <item>Program Studi</item>
+    </string-array>
+</resources>
